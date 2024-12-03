@@ -1,0 +1,2 @@
+#include "XFastTrie.h"
+
