@@ -50,4 +50,5 @@ add_executable(DataStructs
         TestDomain/XFastTrieTest.h
         TestDomain/YFastTrieTest.cpp
         TestDomain/YFastTrieTest.h
-        TestDomain/Kruskal.cpp)
+        TestDomain/Kruskal.cpp
+        TestDomain/data_structures/BPlusTree.h)

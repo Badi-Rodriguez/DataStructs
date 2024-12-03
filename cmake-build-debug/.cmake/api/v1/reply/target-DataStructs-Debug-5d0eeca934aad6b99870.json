@@ -193,7 +193,8 @@
 				33,
 				36,
 				39,
-				41
+				41,
+				43
 			]
 		}
 	],
@@ -436,6 +437,11 @@
 			"compileGroupIndex" : 0,
 			"path" : "TestDomain/Kruskal.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "TestDomain/data_structures/BPlusTree.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
