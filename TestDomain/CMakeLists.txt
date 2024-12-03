@@ -27,6 +27,8 @@ add_executable(TestDomain
         HashTableTest.h
         YFastTrieTest.cpp
         YFastTrieTest.h
+        UnionFind.cpp
+        searches.cpp
 )
 
 # Optional: If you want to separate header files explicitly
